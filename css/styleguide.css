@@ -1352,6 +1352,34 @@ ul.scroll-menu {
   background-image: url(http://wittyclutch.com/wp-content/uploads/2015/03/wittycluthc-students-341.png);
   background-position-y: -0.5rem;
 }
+/* Blended Header*/
+.wide {
+  width: 100%;
+  height: 144px;
+  background-size: cover;
+}
+.wide-photo-01 {
+  background-image: url(../images/girl_reading_floor_HR_cropped.jpg);
+  background-position-y: -10rem;
+}
+.wide-blended {
+  background-color: red;
+  background-blend-mode: multiply;
+  transition: background-color 0.5s;
+}
+.wide-blended:hover {
+  background-color: white;
+  transition: background-color 0.25s;
+}
+.logo {
+  position: absolute;
+  width: 172px;
+  height: 100%;
+  background-image: url(../images/r180_red-white.png);
+  background-repeat: no-repeat;
+  background-position-x: 35rem;
+  background-position-y: 4rem;
+}
 /* -------------------------------------------------------------------------
  Prettyprint
 ---------------------------------------------------------------------------- */
