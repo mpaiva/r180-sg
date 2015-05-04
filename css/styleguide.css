@@ -1317,23 +1317,23 @@ ul.scroll-menu {
   transition: background-color 0.25s;
 }
 [r180-thumbnail="students-1"] {
-  background-image: url(http://www.snohomishtimes.com/images/Elementary-student3.jpg);
+  background-image: url('../images/students/Elementary-student3.jpg');
 }
 [r180-thumbnail="students-2"] {
-  background-image: url(http://static.ijreview.com/wp-content/uploads/2014/02/kiditchy-600x330.jpg);
+  background-image: url('../images/students/kiditchy-600x330.jpg');
 }
 [r180-thumbnail="students-3"] {
-  background-image: url(http://www.mymetrokids.com/october09/elementary-student.jpg);
+  background-image: url('../images/students/elementary-student.jpg');
 }
 [r180-thumbnail="students-4"] {
-  background-image: url(http://www.montgomeryschoolsmd.org/uploadedImages/curriculum/readinginterventions/read180/girlwithbooks.jpg);
+  background-image: url('../images/students/girlwithbooks.jpg');
   background-position-y: -0.5rem;
 }
 [r180-thumbnail="students-5"] {
-  background-image: url(http://www.corbisimages.com/images/Corbis-42-35038982.jpg?size=67&uid=e61bdb0e-2ff2-4cd3-8965-f60d236882a0);
+  background-image: url('../images/students/Corbis-42-35038982.jpg');
 }
 [r180-thumbnail="students-6"] {
-  background-image: url(http://www.corbisimages.com/images/Corbis-42-20818737.jpg?size=67&uid=5a03b53a-78f2-407e-a7f4-31ff7fef8158);
+  background-image: url('../images/students/Corbis-42-20818737.jpg');
 }
 [r180-thumbnail="students-7"] {
   background-image: url(http://www.acfe.com/uploadedImages/ACFE_Website/Content/images/membership-certification/graduate-member.jpg);
