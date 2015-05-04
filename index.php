@@ -9,6 +9,10 @@
 <!-- Style Guide Boilerplate Styles -->
 <link rel="stylesheet" href="css/styleguide.css">
 <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" type="text/css" href="css/bookpreview/normalize.css" />
+    <link rel="stylesheet" type="text/css" href="css/bookpreview/demo.css" />
+    <link rel="stylesheet" type="text/css" href="css/bookpreview/bookblock.css" />
+    <link rel="stylesheet" type="text/css" href="css/bookpreview/component.css" />
 
 <!-- Replace below stylesheet with your own stylesheet -->
 <link rel="stylesheet" href="css/theme.css">
@@ -61,7 +65,11 @@
 <!--/.sg-body-->
 <script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
 <script src="js/scrollspy.js"></script>
-<script src="js/dropdown.js"></script>
+<script src="js/dropdown.js"></script> 
+<script src="js/bookpreview/modernizr.custom.js"></script>   
+<script src="js/bookpreview/bookblock.min.js"></script>
+<script src="js/bookpreview/classie.js"></script>
+<script src="js/bookpreview/bookshelf.js"></script>
 <script src="js/sg-plugins.js"></script>
 <script src="js/sg-scripts.js"></script>
 </body>
